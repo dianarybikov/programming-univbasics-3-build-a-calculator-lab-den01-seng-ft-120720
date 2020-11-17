@@ -13,10 +13,10 @@ subtraction(20, 10)
 
 def division(num1, num2)
  "num1/num2"
- num1/num2
+ num1.class/num2.class
 end
 
-division(2.0, 50.0)
+division(2, 50)
 
 def multiplication(num1, num2)
 "num1*num2"
