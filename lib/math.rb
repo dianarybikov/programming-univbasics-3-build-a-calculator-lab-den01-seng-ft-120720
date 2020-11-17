@@ -16,7 +16,7 @@ def division(num1, num2)
  num1/num2
 end
 
-division(2, 50)
+division(2.0, 50.0)
 
 def multiplication(num1, num2)
 "num1*num2"
