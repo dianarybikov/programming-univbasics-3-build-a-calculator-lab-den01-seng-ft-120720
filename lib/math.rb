@@ -9,14 +9,14 @@ def subtraction(num1, num2)
 num2-num1
 end
 
-subtraction(20, 10)
+subtraction(-5, -10)
 
 def division(num1, num2)
- "num1.to_i/num2.to_i"
- num1.to_i/num2.to_i
+ "num1/num2"
+ num1/num2
 end
 
-division(2, 50)
+division(2, 2)
 
 def multiplication(num1, num2)
 "num1*num2"
