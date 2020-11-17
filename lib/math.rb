@@ -12,7 +12,7 @@ end
 subtraction(20, 10)
 
 def division(num1, num2)
- "num1/num2"
+ "num1.to_i/num2.to_i"
  num1.to_i/num2.to_i
 end
 
